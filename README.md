@@ -1,2 +1,2 @@
-# hello bro
-## im ruru the devloper
+# hello bro!
+## im ruru the dev
